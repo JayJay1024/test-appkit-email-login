@@ -15,7 +15,7 @@ const projectId = "fb2ed568967750558b2b61b251c31cc7";
 const metadata = {
   name: "Test AppKit Email Login",
   description: "Test AppKit Email Login Example",
-  url: "https://reown.com/appkit", // origin must match your domain & subdomain
+  url: "https://test-appkit-email-login.vercel.app", // origin must match your domain & subdomain
   icons: ["https://assets.reown.com/reown-profile-pic.png"],
 };
 
