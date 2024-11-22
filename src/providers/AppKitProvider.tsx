@@ -16,7 +16,7 @@ const metadata = {
   name: "Test AppKit Email Login",
   description: "Test AppKit Email Login Example",
   url: "https://test-appkit-email-login.vercel.app", // origin must match your domain & subdomain
-  icons: ["https://assets.reown.com/reown-profile-pic.png"],
+  icons: ["https://avatars.githubusercontent.com/u/21007682"],
 };
 
 // 3. Set the networks
